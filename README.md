@@ -1,7 +1,7 @@
 # <img src="https://i.imgur.com/ESP30YC.png" width="28"> Kickerino for Android
 
 An Android chat client for [Kick.com](https://kick.com) with 7TV support — an
-Android port of the [Dsktop Kickerino](https://github.com/CarlBraun/Kickerino).
+Android port of the [Desktop Kickerino](https://github.com/CarlBraun/Kickerino).
 
 Watch the stream and read chat in one screen, with the emotes, badges and
 nickname paints you actually expect: Kick emotes, 7TV channel/global/personal
