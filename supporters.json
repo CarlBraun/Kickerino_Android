@@ -1,4 +1,4 @@
 {
   "_comment": "Nicknames that get the supporter badge in chat, visible to every user of the app. Add nicknames to the line below, separated by commas, then commit and push. Installed apps pick it up on next launch, or within 6 hours if left running. Case and spaces around commas do not matter.",
-  "supporters": "CarlBraun"
+  "supporters": "CarlBraun, Deiiwy, GlowHunter11"
 }
