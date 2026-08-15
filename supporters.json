@@ -1,6 +1,4 @@
 {
-  "_comment": "Nicknames that get the supporter badge in chat, visible to every user of the app. Add a Kick nickname, commit, push - installed apps pick it up on next launch, or within 6 hours if left running. Case does not matter. Keep the JSON valid: on a parse error the app keeps the previous list, so a typo means your edit silently does nothing.",
-  "supporters": [
-    "CarlBraun"
-  ]
+  "_comment": "Nicknames that get the supporter badge in chat, visible to every user of the app. Add nicknames to the line below, separated by commas, then commit and push. Installed apps pick it up on next launch, or within 6 hours if left running. Case and spaces around commas do not matter.",
+  "supporters": "CarlBraun"
 }
