@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/poA9i6z.png" width="40"> Kickerino for Android
+# <img src="https://i.imgur.com/poA9i6z.png" width="28"> Kickerino for Android
 
 An Android chat client for [Kick.com](https://kick.com) with 7TV support — an
 Android port of the [Desktop Kickerino](https://github.com/CarlBraun/Kickerino).
