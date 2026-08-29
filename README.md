@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/23pNcXJ.png" width="32"> Kickerino for Android
 
-## GOOGLE PLAY LINK: https://play.google.com/store/apps/details?id=com.Kickerino
+## DOWNLOAD ON GOOGLE PLAY: https://play.google.com/store/apps/details?id=com.Kickerino
 
 An Android chat client for [Kick.com](https://kick.com) with 7TV support — an
 Android port of the [Desktop Kickerino](https://github.com/CarlBraun/Kickerino).
