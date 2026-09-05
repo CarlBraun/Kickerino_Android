@@ -1,5 +1,6 @@
 # <img src="https://i.imgur.com/23pNcXJ.png" width="32"> Kickerino for Android
-## THE ONLY OFFICIAL SOURCE OF KICKERINO: https://kickerino.app/  .com is a scam
+## THE ONLY OFFICIAL SOURCE OF KICKERINO: https://kickerino.app/  
+## .com is a scam
 ## DOWNLOAD ON GOOGLE PLAY: https://play.google.com/store/apps/details?id=com.Kickerino
 
 An Android chat client for [Kick.com](https://kick.com) with 7TV support — an
