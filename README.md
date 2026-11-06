@@ -11,8 +11,8 @@ emotes (animated ones included), sub badges, level badges, and 7TV paints.
 
 
 <p align="center">
-  <img src="https://i.imgur.com/tDRuOzU.png" width="49%">
-  <img src="https://i.imgur.com/ttxDLn4.png" width="49%">
+  <img src="https://i.imgur.com/ckI2gMt.png" width="49%">
+  <img src="https://i.imgur.com/t7TaZQM.png" width="49%">
 </p>
 
 ---
